@@ -50,7 +50,7 @@ window.OF_I18N = {
     "feat.kids.h2": "Adult tutoring",
     "feat.kids.t2": "Our program provides adult tutoring, individually or in groups, to allow adults to learn and use French.",
     "feat.corp.title": "Corporate French Training",
-    "feat.corp.text": "Optimum French offers corporate French training. To help companies bring French to life within their organization, Optimum French provides targeted training — conversation, business, introductory, etc. — off-site, on-site or online, at the option of the participants.",
+    "feat.corp.text": "Optimum French offers corporate French training. With the aim of enabling companies to ensure the awakening of French within them, Optimum French provides ex muros, intramuros or online at the option of beneficiaries of targeted training: conversation, business, initiation etc.",
     "feat.tests.title": "Test preparation",
 
     /* Home — who we are */
